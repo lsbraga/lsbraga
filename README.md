@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-**`Me chamo Leonardo Braga silva, tenho 22 anos, moro em São Paulo/SP, atualmente trabalho como Auxiliar Administrativo Júnior (Jurídico), sou estudante de Análise e Desenvolvimento de Software na UNIP (Universidade Paulista)`**
+**`Me chamo Leonardo Braga Silva, tenho 22 anos, moro em São Paulo/SP, atualmente trabalho como Auxiliar Administrativo Júnior (Jurídico), sou estudante de Análise e Desenvolvimento de Software na UNIP (Universidade Paulista)`**
 
 <p align="left">
      <a href="https://instagram.com/lsbragaa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
