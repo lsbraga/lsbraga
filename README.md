@@ -5,7 +5,6 @@
 **`Me chamo Leonardo Braga Silva, tenho 22 anos, moro em São Paulo/SP, atualmente trabalho como Auxiliar Administrativo Júnior (Jurídico), sou estudante de Análise e Desenvolvimento de Software na UNIP (Universidade Paulista)`**
 
 <p align="left">
-     <a href="https://instagram.com/lsbragaa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
       </a>
     <a href="https://www.linkedin.com/in/lsbraga" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
