@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-**`Me chamo Leonardo Braga Silva, tenho 22 anos, moro em São Paulo/SP, atualmente trabalho como Auxiliar Administrativo Júnior (Jurídico), sou estudante de Análise e Desenvolvimento de Software na UNIP (Universidade Paulista)`**
+**`Me chamo Leonardo Braga Silva, tenho 23 anos, moro em São Paulo/SP, profissional em Análise e Desenvolvimento de Software em formação pela na UNIP (Universidade Paulista)`**
 
 <p align="left">
       </a>
